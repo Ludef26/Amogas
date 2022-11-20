@@ -1871,8 +1871,8 @@ GameObject:
   - component: {fileID: 1634186686}
   - component: {fileID: 1634186689}
   - component: {fileID: 1634186688}
-  - component: {fileID: 1634186690}
   - component: {fileID: 1634186691}
+  - component: {fileID: 1634186690}
   m_Layer: 0
   m_Name: john
   m_TagString: Untagged
