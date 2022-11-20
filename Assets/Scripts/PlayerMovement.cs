@@ -15,8 +15,6 @@ public class PlayerMovement : MonoBehaviour
     {
         Rigidbody2D = GetComponent<Rigidbody2D>();
         Animator = GetComponent<Animator>();
-        Speed = 1;
-        JumpForce = 150;
     }
 
     // Update is called once per frame
