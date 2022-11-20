@@ -12,11 +12,13 @@ public class PlayerMovement : MonoBehaviour
     public float JumpForce;
     private bool Grounded;
     private float LastShoot;
+    private Inventory inventory;
 
     void Start()
     {
         Rigidbody2D = GetComponent<Rigidbody2D>();
         Animator = GetComponent<Animator>();
+        inventory = new Inventory();
     }
 
     // Update is called once per frame
