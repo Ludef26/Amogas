@@ -2013,3 +2013,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 647f5713b8f6b574fbf548849da8dbe7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  BulletPrefab: {fileID: 7695784366273106668, guid: 37431c7db14fe4943845e7befbe0a1ef, type: 3}
+  Speed: 1
+  JumpForce: 150
